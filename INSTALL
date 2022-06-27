@@ -1,0 +1,9 @@
+Building Vision
+
+See doc/readme-qt.rst for instructions on building Vision-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Vision.
+
+See doc/build-*.txt for instructions on building visiond,
+the intended-for-services, no-graphical-interface, reference
+implementation of Vision.
